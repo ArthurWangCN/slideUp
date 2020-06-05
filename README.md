@@ -1,5 +1,6 @@
 # textSlideUp
 用于商城或者门户网站广告牌效果（信息间隔向上滑动展示）
+
 使用时引入textSlider.js，实例化一个textSlider即可。
 实例化：
 ```
